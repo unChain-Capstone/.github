@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/assets/image.png" width="100" height="100"><br>
+  <img src="/assets/imagse.png"><br>
   <i>UnChain: AI-Based Application for Tackling Sugar Addiction with Integrated Chatbot</i>
 </div>
 

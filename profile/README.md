@@ -1,77 +1,72 @@
+# UnChain: AI-Powered Sugar Addiction Management Platform 
+
 <div align="center">
-  <img src="/assets/imagse.png"><br>
-  <i>UnChain: AI-Based Application for Tackling Sugar Addiction with Integrated Chatbot</i>
+  <img src="assets/imagse.png" alt="UnChain Logo" width="200">
+  <p><i>Empowering healthier lives through AI-driven addiction management</i></p>
+
+  [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+  [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/unchain/contributing)
+  [![Stars](https://img.shields.io/github/stars/unchain/unchain.svg)](https://github.com/unchain/stargazers)
 </div>
 
+##  About UnChain
 
+UnChain is an innovative mobile application that leverages artificial intelligence to help users understand, track, and overcome sugar addiction. With the global diabetes prevalence reaching 537 million individuals (IDF, 2021) and projected to hit 783 million by 2045, UnChain aims to be at the forefront of preventive healthcare technology.
 
+##  Key Features
 
-### EXCUTIVE SUMMARY
-The global prevalence of diabetes has reached 537 million individuals as reported by the International Diabetes Federation (IDF) in 2021, with projections indicating an increase to 643 million by 2030 and 783 million by 2045. These statistics raise significant public health concerns, particularly given that diabetes mellitus is frequently referred to as the mother of all diseases.
+- **Smart Addiction Tracking**: ML-powered pattern recognition for monitoring sugar consumption
+- **AI Chatbot Support**: 24/7 personalized guidance and motivation
+- **Progress Analytics**: Detailed insights and visualization of your journey
+- **Educational Resources**: Comprehensive information about sugar addiction and recovery
+- **Real-time Support**: Immediate assistance when you need it most
 
-### OUR CONCERN
-It is alarming that many street foods and market products lack clear labeling regarding their sugar content, which contributes to a widespread unawareness of sugar intake. This issue is particularly concerning given that the impact of diabetes does not seem to receive adequate attention from the public. For instance, there is a high prevalence of high-sugar items showcased on platforms like TikTok, such as martabak loaded with toppings and dubai chocolate, which further normalizes excessive sugar consumption. Consequently, there is a pressing need for an accessible application in Indonesia that makes it easier for individuals to track their sugar intake and promote healthier eating habits.
+##  Why UnChain?
 
-### OBJECTIVE
-Develop a mobile application to help users understand, track, and reduce sugar addiction.
+- **Problem**: Many food products lack clear sugar content labeling, leading to unconscious overconsumption
+- **Impact**: Rising diabetes rates and associated health complications
+- **Solution**: UnChain provides an accessible, AI-driven platform to track and manage sugar intake
 
-Project Scope:
-- Build a mobile application to help users break free from various addictions.
-- The application can detect and track user's addiction patterns using Machine Learning and integrated with AI-Assistant Chatbot.
-- The application initially focuses on sugar addiction due to the prototype development timeline.
-  
-Deliverables:
-- Users can use this application to : 
-- Track and monitor their addiction patterns
-- Learn about addiction mechanisms and recovery strategies
-- Get real-time support and progress monitoring
+##  Tech Stack
 
+- **Mobile Development**: 
+- **Backend**: 
+- **Machine Learning**: 
+- **Database**: 
+- **AI Integration**: 
+
+##  Our Team
+
+<div align="center">
+
+### Machine Learning
+| Bangkit ID | Name | Learning Path |
+|------------|------|---------------|
+| M180B4KY4627 | Zinadine Zidan Alsyahana | Machine Learning |
+| M010B4KX1100 | Dhissa Ashila Rosmalia | Machine Learning |
+| M010B4KX2603 | Mudita Indah Paramitha | Machine Learning |
+
+### Cloud Computing
+| Bangkit ID | Name | Learning Path |
+|------------|------|---------------|
+| C012B4KY1776 | Hidayatus Sholikhin | Cloud Computing |
+| C128B4KY1056 | Deva Alvyn Budinugraha | Cloud Computing |
+
+### Mobile Development
+| Bangkit ID | Name | Learning Path |
+|------------|------|---------------|
+| A288B4KY3706 | Raya Adinad Jayadi Ahmad | Mobile Development |
+| A346B4KY1959 | Imam Satrio Prakoso | Mobile Development |
+
+</div>
+
+## 📱 Screenshots
+
+[Coming Soon]
 
 
 
 
 <div align="center">
-  <h3>Our Team</h3>
-  <table align="center">
-    <tr>
-      <th>Bangkit ID</th>
-      <th>Name</th>
-      <th>Learning Path</th>
-    </tr>
-    <tr>
-      <td>M180B4KY4627</td>
-      <td>Zinadine Zidan Alsyahana</td>
-      <td>Machine Learning</td>
-    </tr>
-    <tr>
-      <td>M010B4KX1100</td>
-      <td>Dhissa Ashila Rosmalia</td>
-      <td>Machine Learning</td>
-    </tr>
-    <tr>
-      <td>M010B4KX2603</td>
-      <td>Mudita Indah Paramitha</td>
-      <td>Machine Learning</td>
-    </tr>
-    <tr>
-      <td>C012B4KY1776</td>
-      <td>Hidayatus Sholikhin</td>
-      <td>Cloud Computing</td>
-    </tr>
-    <tr>
-      <td>C128B4KY1056</td>
-      <td>Deva Alvyn Budinugraha</td>
-      <td>Cloud Comuputing</td>
-    </tr>
-    <tr>
-      <td>A288B4KY3706</td>
-      <td>Raya Adinad Jayadi Ahmad</td>
-      <td>Mobile Development</td>
-    </tr>
-     <tr>
-      <td>A346B4KY1959</td>
-      <td>Imam Satrio Prakoso</td>
-      <td>Mobile Development</td>
-    </tr>
-  </table>
+  <sub>Built with ❤️ by the UnChain Team</sub>
 </div>

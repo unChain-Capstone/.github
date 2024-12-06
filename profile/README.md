@@ -1,7 +1,7 @@
 # UnChain: AI-Powered Sugar Addiction Management Platform 
 
 <div align="center">
-  <img src="assets/imagse.png" alt="UnChain Logo" width="200">
+  <img src="/icon.png" alt="UnChain Logo" width="200">
   <p><i>Empowering healthier lives through AI-driven addiction management</i></p>
 
   [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)

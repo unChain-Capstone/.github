@@ -3,10 +3,6 @@
 <div align="center">
   <img src="/icon.png" alt="UnChain Logo" width="200">
   <p><i>Empowering healthier lives through AI-driven addiction management</i></p>
-
-  [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-  [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/unchain/contributing)
-  [![Stars](https://img.shields.io/github/stars/unchain/unchain.svg)](https://github.com/unchain/stargazers)
 </div>
 
 ##  About UnChain

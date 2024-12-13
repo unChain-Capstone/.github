@@ -25,11 +25,11 @@ UnChain is an innovative mobile application that leverages artificial intelligen
 
 ##  Tech Stack
 
-- **Mobile Development**: 
-- **Backend**: 
-- **Machine Learning**: 
-- **Database**: 
-- **AI Integration**: 
+- **Mobile Development**: Kotlon Coroutines, ViewPager2, Dagger-Hilt, Retrofit, Okhttp, Glide, Pager, Firebase
+- **Backend**: Node Js, Express, Prisma, Docker
+- **Machine Learning**: Tensorflow Recommenders
+- **Database**: PostgreSQL
+- **AI Integration**: Tensorflow Js, yggdrasil decision forest
 
 ##  Our Team
 

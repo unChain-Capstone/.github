@@ -59,6 +59,7 @@ UnChain is an innovative mobile application that leverages artificial intelligen
 ## App Showcase
 <img src="https://github.com/unChain-Capstone/.github/blob/main/UnChain%20%20Capstone.png">
 <img src="https://github.com/unChain-Capstone/.github/blob/main/showcase.png">
+<img src="https://github.com/unChain-Capstone/.github/blob/main/template%2029%20(1).jpg">
 
 
 
